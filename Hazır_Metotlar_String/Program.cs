@@ -63,7 +63,7 @@
             //Substring
             Console.WriteLine(Degisken.Substring(4)); // 4 indexten başlayaark cümlenin sonuna kadar getirir
             Console.WriteLine(Degisken.Substring(4,6)); // 4 indexten başlayarak 6 karakter getir deriz
-          
+          // tamamlandı
         }
     }
 }
